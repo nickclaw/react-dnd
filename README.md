@@ -1,6 +1,12 @@
 React *DnD*
 =========
 
+## Temporary build of react-dnd until https://github.com/gaearon/react-dnd/pull/348 gets resolved.
+
+```
+npm install --save https://github.com/nickclaw/react-dnd
+```
+
 Drag and Drop for React.
 
 See the docs, tutorials and examples on the website:
